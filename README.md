@@ -4,6 +4,8 @@ I am an aspiring front end developer. I am experienced in Javascript-based progr
 <div align="center">
   
   [![LinkedIn profile page](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/modydz/)
+  
+  [![LinkedIn profile page](https://img.shields.io/badge/-Portfolio-lightblue?style=for-the-badge&logo=appveyor)](https://modydz-portfolio.vercel.app/)
 
 </div>
 
