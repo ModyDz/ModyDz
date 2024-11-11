@@ -1,3 +1,4 @@
+<!--
 # About Me
 I am an aspiring front end developer. I am experienced in Javascript-based programming tools, mainly React/Nextjs. I also have some decent experience in backend, specifically with Nodejs/Expressjs. I value consistency, yearn for knowledge and always looking for a challenge.
  
